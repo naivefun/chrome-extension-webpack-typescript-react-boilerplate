@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-webpack",
+  "name": "chrome-extension-webpack-typescript-react-boilerplate",
   "version": "0.0.1",
-  "description": "A boilerplate to chrome extension with webpack",
+  "description": "A no-brainer chrome extension starter for webpack, react and typescript fans",
   "scripts": {
     "build": "ts-node --type-check utils/build.ts",
     "start": "ts-node --type-check utils/webserver.ts"

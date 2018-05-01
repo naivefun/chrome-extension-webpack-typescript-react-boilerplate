@@ -1,6 +1,6 @@
 import './App.scss';
 
-import React from 'react';
+import * as React from 'react';
 import { hot } from 'react-hot-loader';
 
 declare const module: any;
